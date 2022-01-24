@@ -1,0 +1,42 @@
+body{ overflow: hidden;}
+.headcontent{
+    width: 100%;
+    margin-left: 45px;
+    height: 320px;
+}
+h1{
+    color: #312F2F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 88px;
+  }
+h2{
+    color: #312F2F;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 58px;
+}
+.yellow{
+    background: #FFC238;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #312F2F;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.phbox{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 5px;
+}
+.maincontent{
+    width: 100%;
+    margin: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align:justify;
+    line-height: 30px;   
+}
